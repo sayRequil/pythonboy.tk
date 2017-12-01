@@ -1,1 +1,2 @@
-theme: mkdocs
+theme:
+  name: 'material'
